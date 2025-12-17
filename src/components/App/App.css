@@ -1,0 +1,24 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app > main,
+.app > .main {
+  flex: 1;
+}
+
+.app > .saved-news {
+  flex: 1 0 auto;
+}
+
+.app > .footer {
+  flex-shrink: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
