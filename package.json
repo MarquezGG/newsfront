@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://marquezgg.github.io/newsfront/",
+  "homepage": "https://marquezgg.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
