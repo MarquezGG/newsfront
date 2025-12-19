@@ -22,5 +22,6 @@ A React-based news search application that allows users to search for articles, 
 
 **Eduard Petrosian**
 
-- GitHub: [@yourusername](https://github.com/MarquezGG/newsfront)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/eduard-petrosian-778392aa/)
+- GitHub: (https://github.com/MarquezGG/newsfront)
+- GitHub Page: (https://marquezgg.github.io/newsfront/)
+- LinkedIn: (https://www.linkedin.com/in/eduard-petrosian-778392aa/)
