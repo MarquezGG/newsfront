@@ -11,7 +11,7 @@ function About() {
           <p className="about__text">
             My name is Eduard Petrosian and I'm a current software engineering
             student at TripleTen. I'm an aspiring software developer working on
-            personal projects to grow my skills in web development and
+            web applications to grow my skills in web development and
             JavaScript. I enjoy learning through practice, experimenting with
             ideas, and turning concepts into functional applications. This
             project is part of my ongoing learning journey.
